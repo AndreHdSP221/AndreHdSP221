@@ -3,11 +3,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-nu-dun-35.vercel.app/api?username=AndreHdSP221&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-eb0kp9x3q.vercel.app/api?username=AndreHdSP221&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-nu-dun-35.vercel.app/api/top-langs/?username=AndreHdSP221&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats-eb0kp9x3q.vercel.app/api/top-langs/?username=AndreHdSP221&layout=compact&theme=dark" alt="Linguagens mais usadas" />
 </p>
 
 <!--
