@@ -5,7 +5,7 @@
 Me chamo André, tenho 20 anos e sou natural de Jaú-SP. Concluí o ensino médio no Colégio Estadual Rui Barbosa e, atualmente, curso Engenharia de Software na Unicesumar. Sou apaixonado por tecnologia desde os 14 anos, quando comecei a estudar Desenvolvimento Web. Desde então, venho me especializando na área de Back-end.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.linkedin.com/in/andreengsoft832764/">
         <img 
             alt="Linkdin" 
             title="Me siga no Linkdin!" 
