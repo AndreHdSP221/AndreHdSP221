@@ -4,6 +4,8 @@
 
 Me chamo André, tenho 20 anos e sou natural de Jaú-SP. Concluí o ensino médio no Colégio Estadual Rui Barbosa e, atualmente, curso Engenharia de Software na Unicesumar. Sou apaixonado por tecnologia desde os 14 anos, quando comecei a estudar Desenvolvimento Web. Desde então, venho me especializando na área de Back-end.
 
+Utilizo o Linux Mint como meu sistema operacional para programação.
+
 <p align="left">
     <a href="https://www.linkedin.com/in/andreengsoft832764/">
         <img 
